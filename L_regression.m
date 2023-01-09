@@ -1,3 +1,5 @@
+% Linear Regression using SVD - Example #1
+
 clear all, close all, clc
 
 x=3; % True Slope

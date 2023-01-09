@@ -1,3 +1,5 @@
+% Linear Regression using SVD - Example #2
+
 clear all, close all, clc
 
 load hald;
